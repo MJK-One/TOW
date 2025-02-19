@@ -1,0 +1,21 @@
+STS4 for Eclipse : https://spring.io/tools
+	version: 4.22.1-windows x86_64 (240522 기준 최신 버전)
+
+-Spring Starter Project
+Type: Maven
+Packaging: Jar
+Java version: 17
+Language: Java
+
+-dependencies
+Spring Boot DevTools
+Lombok (lombok을 sts4.exe 파일에 적용시켜야 돌아감)
+Spring Data JPA
+MySQL Driver
+Spring Web
+
+
+<진행상황>
+- 2024.05.22(유지아): 
+	<임시 db jpa로 연결 완료>
+	- 임시 db(DB 폴더 참고) jpa로 연결해서, 가데이터 웹에 표출되는 것 확인함
