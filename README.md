@@ -4,7 +4,9 @@ Ticket FrontEnd : https://github.com/MJK-One/ticket-front.git <br>
 Ticket BackEnd : https://github.com/dbwldk/ticket-back.git <br>
 요약 자료 : https://prezi.com/view/jMuxM9EP5fgNfKH00SaQ/ <br>
 시스템 구현 (코드 설명서) : https://docs.google.com/document/d/1VMwY3Ke9w1PL1ndONAZpVy510BBqt4fh/edit?usp=sharing&ouid=107524716144179574385&rtpof=true&sd=true
-# 개발 인원
+## 웹 프로젝트
+#### 개발 기간 : 2024.07.21 ~ 2024.11.12
+## 개발 인원
 | 김민준 | 유지아 | 장민석 |
 |------|------|------|
 | Front-End, Back-End | Front-End, Back-End | Crawling, DataBase, AI |
