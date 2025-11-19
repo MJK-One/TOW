@@ -1,5 +1,8 @@
 # Ticket Open Wave
-### 주소 : https://towave.site/ <br>
+### 주소 : ~~https://towave.site/~~
+> ⛔ 도메인 만료 (2025-11-15 기준) <br>
+> 📂 [아카이빙 바로가기](https://replayweb.page/?source=https://tow-archive-wacz.dbwldk0124.workers.dev#view=pages&url=https%3A%2F%2Ftowave.site%2F&ts=20251113160453) <br>
+
 Ticket FrontEnd : https://github.com/MJK-One/ticket-front.git <br>
 Ticket BackEnd : https://github.com/dbwldk/ticket-back.git <br>
 요약 자료 : https://prezi.com/view/jMuxM9EP5fgNfKH00SaQ/ <br>
