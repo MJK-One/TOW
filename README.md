@@ -12,7 +12,7 @@ Ticket BackEnd : https://github.com/dbwldk/ticket-back.git <br>
 ## 개발 인원
 | 김민준 | 유지아 | 장민석 |
 |------|------|------|
-| Full-Stack | Front-End, Back-End | Crawling, DataBase, AI |
+| Full-Stack | Full-Stack | Crawling, DataBase, AI |
 
 ## 목차
 - [1. 프로젝트 개요](#1-프로젝트-개요)
